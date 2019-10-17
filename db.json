@@ -1,0 +1,13 @@
+{
+  first_name: "John",
+  last_name: "Smith",
+  contact_email: "johnsmith@gmail.com",
+  contact_number: "0745789789",
+  organization: "Breatbase",
+  department: "lung research",
+  job_title: "Technician Physician",
+  country: "RO",
+  city: "Cluj-Napoca",
+  account: "John.Smith17",
+  role: "Researcher"
+}
