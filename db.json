@@ -1,5 +1,5 @@
 {
- "user_details" = [{
+ "user_details" : [{
   "first_name": "John",
   "last_name": "Smith",
   "contact_email": "johnsmith@gmail.com",
